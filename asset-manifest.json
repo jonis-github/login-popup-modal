@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/login-popup-modal/static/css/main.eb7455fb.css",
+    "main.js": "/login-popup-modal/static/js/main.422ae02d.js",
+    "static/media/bg-image.jpg": "/login-popup-modal/static/media/bg-image.9b10d93daaefc50ccdba.jpg",
+    "static/media/nature-logo.png": "/login-popup-modal/static/media/nature-logo.8585c930f8bdd9e0867c.png",
+    "index.html": "/login-popup-modal/index.html",
+    "main.eb7455fb.css.map": "/login-popup-modal/static/css/main.eb7455fb.css.map",
+    "main.422ae02d.js.map": "/login-popup-modal/static/js/main.422ae02d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb7455fb.css",
+    "static/js/main.422ae02d.js"
+  ]
+}
